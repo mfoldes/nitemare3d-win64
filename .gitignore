@@ -1,0 +1,24 @@
+# Build and packaging output
+/out/
+/build/
+/.vs/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exp
+*.user
+__pycache__/
+*.pyc
+
+# Local CMake/IDE configuration
+CMakeUserPresets.json
+.vscode/
+.idea/
